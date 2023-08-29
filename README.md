@@ -1,8 +1,25 @@
-- 👋 Hi, I’m @harshadk13
-- 👀 I’m interested in Data Scence Domain
-- 🌱 I’m currently learning Full stack Data science @iNeuron
-- 💞️ I’m looking to collaborate on Data science projects
-- 📫 How to reach me www.linkedin.com/in/harshadkhedekar13
+# Hi there! 👋 I'm Harshad
+
+## About Me
+I am a passionate Data Engineer based in India, dedicated to transforming raw data into valuable insights. With a strong foundation in programming, databases, cloud technologies, and data visualization, I thrive on designing efficient data pipelines and solutions that enable data-driven decision-making.
+
+## Technical Skills
+- **Programming**: SQL, Python, PySpark
+- **Databases**: SQL Server, MySQL
+- **Azure Cloud**: Azure Data Lake, Azure Databricks, Azure Data Factory, Azure Synapse, Azure Data Explorer, Azure SQL DB, Azure Data Explorer.
+- **Data Visualization**: Power BI
+- **Big Data**: Apache Spark
+- **Other Tools**: Excel
+
+
+## Contact Me
+📧 Email: harshadkhedekar123@gmail.com
+🌐 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/harshadkhedekar13)
+📊 GitHub: [Your GitHub Profile](https://github.com/harshadk13)
+
+Feel free to connect with me if you're interested in discussing data engineering, cloud solutions, or anything related to the world of data!
+
+> "Data is the new oil, and I'm here to refine it into insights."
 
 <!---
 harshadk13/harshadk13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
