@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Harshad
 
 ## About Me
-I am a passionate Data Engineer based in India, dedicated to transforming raw data into valuable insights. With a strong foundation in programming, databases, cloud technologies, and data visualization, I thrive on designing efficient data pipelines and solutions that enable data-driven decision-making.
+I am a passionate Data Engineer based in India, dedicated to transforming raw data into valuable insights. With a strong foundation in programming, databases, cloud technologies, and data visualization, I thrive on designing efficient data pipelines and solutions that enable data driven decision-making.
 
 ## Technical Skills
 - **Programming**: SQL, Python, PySpark
