@@ -5,7 +5,7 @@ I am a passionate Data Engineer based in India, dedicated to transforming raw da
 
 ## Technical Skills
 - **Programming**: SQL, Python, PySpark
-- **Databases**: SQL Server, MySQL
+- **Databases**: SQL Server, MySQL, KQL
 - **Azure Cloud**: Azure Data Lake, Azure Databricks, Azure Data Factory, Azure Synapse, Azure Data Explorer, Azure SQL DB, Azure Data Explorer.
 - **Microsoft Fabric**
 - **Data Visualization**: Power BI
