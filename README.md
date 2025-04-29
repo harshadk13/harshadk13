@@ -7,7 +7,7 @@ I am a passionate Data Engineer based in India, dedicated to transforming raw da
 - **Programming**: SQL, Python, PySpark
 - **Databases**: SQL Server, MySQL, KQL
 - **Azure Cloud**: Azure Data Lake, Azure Databricks, Azure Data Factory, Azure Synapse, Azure Data Explorer, Azure SQL DB, Azure Data Explorer.
-- **Microsoft Fabric**
+- **Microsoft Fabric**: Data Pipeline, Copy Job, Dataflow Gen2, Notebook, KQL Database, Lakehouse, Warehouse, Data Flow Gen 2, Eventstream, Data Activator
 - **Data Visualization**: Power BI
 - **Big Data**: Apache Spark
 - **Other Tools**: Excel
